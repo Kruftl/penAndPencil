@@ -1,0 +1,36 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<article class="post">
+    <header class="post-header">
+        <h1>{{ post.title()|e }}</h1>
+        <time datetime="{{ post.date.isoformat() }}">{{ post.meta('fantasydate') or post.formatted_date(date_format) }}</time>
+    </header>
+    <div class="post-body">
+        {{ post.text() }}
+    </div>
+    {# Navigiert nur zwischen Posts der gleichen Kategorie #}
+    {% set cat = post.meta('category') %}
+    {% set ns = namespace(prev=post.prev_post, next=post.next_post) %}
+    {% for i in range(50) %}
+        {% if ns.prev is not none and ns.prev.meta('category') != cat %}
+            {% set ns.prev = ns.prev.prev_post %}
+        {% endif %}
+    {% endfor %}
+    {% for i in range(50) %}
+        {% if ns.next is not none and ns.next.meta('category') != cat %}
+            {% set ns.next = ns.next.next_post %}
+        {% endif %}
+    {% endfor %}
+    {% if ns.prev or ns.next %}
+    <nav class="post-nav">
+        {% if ns.prev %}
+        <a href="{{ ns.prev.permalink() }}">&larr; {{ ns.prev.title()|e }}</a>
+        {% endif %}
+        {% if ns.next %}
+        <a href="{{ ns.next.permalink() }}">{{ ns.next.title()|e }} &rarr;</a>
+        {% endif %}
+    </nav>
+    {% endif %}
+</article>
+{% endblock %}

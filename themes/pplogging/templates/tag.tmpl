@@ -1,0 +1,46 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<article class="tagpage">
+    <header class="post-header">
+        <h1>{{ title|e }}</h1>
+        {% if description %}<p>{{ description }}</p>{% endif %}
+    </header>
+    {% if posts %}
+    <ul class="postlist">
+    {% if tag == 'npc' %}
+    {% for post in posts|sort(attribute='slug') %}
+        <li>
+            <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}</a>
+        </li>
+    {% endfor %}
+
+    {% elif tag == 'misc' %}
+    {% for post in posts|sort(attribute='slug') %}
+        <li>
+            <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}</a>
+        </li>
+    {% endfor %}
+
+    {% elif tag == 'charaktere' %}
+    {% for post in posts|sort(attribute='slug') %}
+        <li>
+            <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}</a>
+        </li>
+    {% endfor %}
+
+
+    {% else %}
+    {% for post in posts %}
+        <li>
+            <time class="listdate" datetime="{{ post.formatted_date('webiso') }}">{{ post.meta('fantasydate') or post.formatted_date(date_format)|e }}</time>
+            <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}</a>
+        </li>
+    {% endfor %}
+    {% endif %}
+    </ul>
+    {% else %}
+    <p>Keine Einträge gefunden.</p>
+    {% endif %}
+</article>
+{% endblock %}

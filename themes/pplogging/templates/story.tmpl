@@ -1,0 +1,12 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<article class="story">
+    <header>
+        <h1>{{ post.title()|e }}</h1>
+    </header>
+    <div class="post-body">
+        {{ post.text() }}
+    </div>
+</article>
+{% endblock %}

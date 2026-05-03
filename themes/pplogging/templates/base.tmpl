@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ title|e }}{% endblock %} — {{ blog_title|e }}</title>
+    {% if description %}<meta name="description" content="{{ description|e }}">{% endif %}
+    <link rel="stylesheet" href="{{ rel_link(permalink, '/assets/css/pplogging.css') }}">
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <header>
+        <a href="{{ abs_link('/') }}">{{ blog_title|e }}</a>
+    </header>
+    <div class="page-layout">
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+        <nav class="sidebar">
+            <ul>
+                <li><a href="{{ abs_link('/categories/tagebuch/') }}" title="Tagebuch"><img src="{{ rel_link(permalink, '/assets/images/LesezeichenBlau.png') }}" alt="Tagebuch"></a></li>
+                <li><a href="{{ abs_link('/categories/charaktere/') }}" title="Charaktere"><img src="{{ rel_link(permalink, '/assets/images/LesezeichenGruen.png') }}" alt="Charaktere"></a></li>
+                <li><a href="{{ abs_link('/categories/npc/') }}" title="NPC"><img src="{{ rel_link(permalink, '/assets/images/LesezeichenSchwarz.png') }}" alt="NPC"></a></li>
+                <li><a href="{{ abs_link('/categories/misc/') }}" title="Misc"><img src="{{ rel_link(permalink, '/assets/images/LesezeichenGelb.png') }}" alt="Misc"></a></li>
+            </ul>
+        </nav>
+    </div>
+    <footer>
+        <p>{{ blog_title|e }} &mdash; {{ blog_author|e }}</p>
+    </footer>
+</body>
+</html>

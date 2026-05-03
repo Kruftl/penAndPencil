@@ -1,0 +1,21 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<article class="listpage">
+    <header class="post-header">
+        <h1>{{ title|e }}</h1>
+    </header>
+    {% if posts %}
+    <ul class="postlist">
+    {% for post in posts %}
+        <li>
+            <time class="listdate" datetime="{{ post.formatted_date('webiso') }}">{{ post.meta('fantasydate') or post.formatted_date(date_format)|e }}</time>
+            <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p>Keine Einträge gefunden.</p>
+    {% endif %}
+</article>
+{% endblock %}
