@@ -158,3 +158,53 @@ footer {
     font-size: 0.85rem;
     color: #888;
 }
+
+@media (max-width: 640px) {
+    html {
+        background: url('../images/Tisch.png') center center / cover scroll;
+    }
+
+    body {
+        font-size: 1rem;
+        padding: 1rem 0.75rem;
+    }
+
+    header a {
+        font-size: 2rem;
+    }
+
+    .page-layout {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .sidebar {
+        order: -1;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .sidebar ul {
+        flex-direction: row;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .sidebar ul li a img {
+        width: 80px;
+        height: auto;
+    }
+
+    .post-body img {
+        max-width: 100%;
+    }
+
+    .post-body img.align-left,
+    .post-body img.align-right {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        max-width: 100%;
+    }
+}
