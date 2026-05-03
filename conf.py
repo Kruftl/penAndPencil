@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Anor"  # (translatable)
 BLOG_TITLE = "Berichte von Dandiral"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = os.environ.get("NIKOLA_SITE_URL", "http://127.0.0.1:8000/")
+SITE_URL = "https://kruftl.github.io/penAndPencil"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
