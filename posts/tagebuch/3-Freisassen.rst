@@ -24,7 +24,7 @@ Bodron ergänzte auf Nachfrage die Informationen zum Hollerhof: zwei Stunden wes
     
 Die Nacht verlief in Wachen. Fenwick und Barundar machten die erste, Kung Lao und Fulgora die zweite. Fenwick verhielt sich die erste Wache über unauffällig, soweit ich das beurteilen konnte. Das ist, für sich genommen, auch eine Information. Keine weiteren Auffälligkeiten, soweit ich informiert wurde. Meine Wache war die dritte.
 
-.. image:: /images/Aura.png
+.. image:: /images/logbuchArtwork/Aura.png
     :alt: Aura
     :width: 500px
     :align: right

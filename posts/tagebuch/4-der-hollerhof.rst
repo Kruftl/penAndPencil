@@ -57,7 +57,7 @@ Fulgora hatte die Verletzung am Bein, kämpfte aber mit einer Intensität, die i
 
 Die erste Mimik, inzwischen durch Barundar an die Wand getrieben und schließlich mit einem einzigen Hammerschlag zertrümmert — das Holz knackte wie eine Nuss, wie er es ausdrückte, und ich glaube, er hat das mit voller Absicht so ausgedrückt —, war erledigt.
 
-.. image:: /images/mimik.png
+.. image:: /images/logbuchArtwork/mimik.png
     :alt: Mimik
     :width: 500px
     :align: right

@@ -10,10 +10,10 @@
 
 
 
-.. image:: /images/Drachenei.jpeg
+.. image:: /images/items/Drachenei.jpeg
     :alt: Drachenei
     :height: 600px
     :align: left
 
 
-Das Drachenei wurde auf dem Hollerhof gefunden. 
+Das Drachenei wurde auf dem Hollerhof gefunden.

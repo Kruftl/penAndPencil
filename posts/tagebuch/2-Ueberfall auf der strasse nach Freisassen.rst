@@ -15,7 +15,7 @@ Zur Mittagsstunde hielten uns zwei Männer an, begleitet von einem Hund, und bea
 
 Was folgte, war kurz und unelegant, wie solche Dinge es sind. Fulgora schlug den Hund nieder — es gab einen Moment, in dem noch hätte unterhandelt werden können, aber dieser Moment war klein und verging schnell, und Fulgora ist nicht jemand, der auf kleine Momente wartet. Kung Lao griff einen der Männer an: Stab, Technik, kein sichtbares Urteil dahinter, nur Mechanik. Barundar geriet kurz unter Druck, ließ es aber an sich abperlen wie Regen an Stein, und als er zurückschlug, tat er es mit dieser zwergenischen Gründlichkeit, die keinen Raum für Eleganz braucht. Einer der Männer überlebte es, bewusstlos.
 
-.. image:: /images/SprungVomWagen.png
+.. image:: /images/logbuchArtwork/SprungVomWagen.png
     :alt: Sprung vom Wagen
     :height: 600px
     :align: right

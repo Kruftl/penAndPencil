@@ -12,7 +12,7 @@
 Der Auftrag von Kronheim nach Dampfgard ist erledigt. Die Karawane hat ihr Ziel erreicht, wir haben unseren Lohn eingesteckt, und nun sitzen wir auf dem Rückweg in einer Schenke, die so heißt, wie sie aussieht: ein hinkender Eber, groß, leicht verwahrlost, aber solide genug, dass die Balken nicht knarren. Die Ortschaft selbst hat eine Palisade und wenig Besonderes — ein Ort, der existiert, weil Straßen sich irgendwo kreuzen müssen.
 
 
-.. image:: /images/ZumHinkendenEber.png
+.. image:: /images/logbuchArtwork/ZumHinkendenEber.png
     :alt: Kneipe zum hinkenden Eber
     :height: 600px
     :align: left

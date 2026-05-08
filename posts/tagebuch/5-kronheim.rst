@@ -24,7 +24,7 @@ Ich brachte mein Wissen über Lythandor ein: die Elfen dort sind für den Schmie
 
 Dann kam die Frage des Eies in ihrer praktischen Dimension.
 
-.. image:: /images/darchenei.png
+.. image:: /images/logbuchArtwork/darchenei.png
     :alt: drachenei
     :width: 500px
     :align: right
