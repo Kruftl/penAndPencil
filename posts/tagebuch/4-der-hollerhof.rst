@@ -16,7 +16,7 @@ Kung Laos Gebet war anders. Ich bin nicht sicher, wo oder wie er betete — ich 
 
 Wir brachen in Richtung Hollerhof auf. Fenwick begann unvermittelt, mit einem Vogel zu sprechen, der ihn irgendwo auf dem Weg anflog — oder den er anflog, das war nicht eindeutig zu sagen. Er schickte das Tier voraus, um das feindliche Lager auszukundschaften, und es kam zurück. Er tauschte seine Informationen gegen Brotkrümel. Ich stehe dem nicht wertend gegenüber: es war eine effektive Aufklärung, zu einem geradezu lächerlich günstigen Preis. Was mich beschäftigt, ist weniger das Was als das Wie — Fenwick hat druidische Fähigkeiten, die er selten zeigt und nie erklärt, und ich frage mich, wie weit sie reichen und warum er so wenig davon preisgibt.
 
-.. image:: /images/Vogel.png
+.. image:: /images/logbuchArtwork/Vogel.png
     :alt: Vogel
     :width: 500px
     :align: left
