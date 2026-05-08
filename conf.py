@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Anor"  # (translatable)
-BLOG_TITLE = "Berichte von Dandiral"  # (translatable)
+BLOG_TITLE = "Berichte von Avalor"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://kruftl.github.io/penAndPencil"

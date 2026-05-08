@@ -107,6 +107,7 @@ header a {
 .post-body img {
     max-width: 70%;
     height: auto;
+    cursor: zoom-in;
 }
 
 .post-body img.align-left {
