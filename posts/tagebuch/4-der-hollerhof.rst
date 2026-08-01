@@ -8,151 +8,173 @@
 .. description: 
 .. type: text
 
-Heute Morgen verließen Barundar und Kung Lao das Lager kurz, um zu beten. Das ist eine Information, die ich notiere, weil das, was danach geschah, notiert werden muss.
+Am nächsten Morgen gingen Kung Lao und Barundar beten. Das ist ein einfacher Satz, aber er beschreibt zwei sehr verschiedene Vorgänge. Kung Lao betete an einer Gebetsstätte, deren Ordnung ich nicht kannte. Barundar ging in die Schmiede. Das passte zu ihm. Manche Menschen suchen Stille, indem sie sich von Werkzeugen entfernen. Zwerge scheinen bisweilen das Gegenteil zu tun.
 
-Barundar betete in Edgars Schmiede — naheliegend, wenn man bedenkt, wen er verehrt und was seine Hände können. Edgar stand dabei, und Fenwick auch, der sich das selten entgehen lässt, was andere tun. Nach dem Gebet leuchtete Barundars Hammer kurz auf — nicht lange, nicht dramatisch, aber unverkennbar. Edgar nickte, mit einer Ehrerbietung, die ich bei einem Schmied gegenüber einem Kunden nicht erwartet hätte. Was die Reine Flamme einem Meistersmiede bedeutet, weiß ich nicht; dass sie ihm etwas bedeutet, habe ich jetzt gesehen.
+Edgar und Fenwick beobachteten ihn. Ich sah später nur das Ergebnis, doch es war deutlich genug: Nach Barundars Gebet leuchtete sein Hammer kurz auf. Nicht wie Metall, das das Feuer der Esse zurückwirft, sondern wie etwas, das für einen Augenblick von innen wusste, wofür es geschaffen worden war. Edgar nickte ehrerbietig. Bei einem Schmied ist ein solches Nicken keine kleine Geste. Es war eher eine Messung, die mit Respekt endete.
 
-Kung Laos Gebet war anders. Ich bin nicht sicher, wo oder wie er betete — ich war nicht dabei, und er erklärt seine Handlungen nicht. Was ich weiß: danach leuchteten wir alle kurz auf, jeder von uns, und ich spürte etwas, das ich als temporäre Stärkung beschreiben würde, ohne es vollständig beschreiben zu können. Ich notiere: ein Mönch, der am gestrigen Abend eine detektierbare magische Aura trug, betet heute Morgen, und seine Andacht hat messbare Auswirkungen auf eine Gruppe von Menschen, von denen die meisten ihn kaum kennen. Das ergänzt die Einträge vom zwölften Tag. Ich bin keiner Erklärung nähergekommen, habe aber mehr Material.
+Auch Kung Laos Gebet blieb nicht ohne Wirkung. Für einen kurzen Moment lag Licht auf uns allen. Es war kein grelles Licht und kein Zauber, der sich mir ordentlich in Linien zerlegen ließ. Es war eher, als hätte jemand die dünne Stelle zwischen Atem und Erschöpfung verstärkt. Ich fühlte mich nicht unverletzlich. Nur weniger leicht zu zerbrechen.
 
-Wir brachen in Richtung Hollerhof auf. Fenwick begann unvermittelt, mit einem Vogel zu sprechen, der ihn irgendwo auf dem Weg anflog — oder den er anflog, das war nicht eindeutig zu sagen. Er schickte das Tier voraus, um das feindliche Lager auszukundschaften, und es kam zurück. Er tauschte seine Informationen gegen Brotkrümel. Ich stehe dem nicht wertend gegenüber: es war eine effektive Aufklärung, zu einem geradezu lächerlich günstigen Preis. Was mich beschäftigt, ist weniger das Was als das Wie — Fenwick hat druidische Fähigkeiten, die er selten zeigt und nie erklärt, und ich frage mich, wie weit sie reichen und warum er so wenig davon preisgibt.
+Das genügte mir für den Weg zum Hollerhof. Der abgebrannte Bauernhof lag westlich von Freisassen, dort, wo Bodron ihn beschrieben hatte. Verbrannte Gebäude haben eine eigene Sprache. Balken zeigen, wohin Hitze wollte. Steine zeigen, was geblieben ist. Menschen sehen oft nur Ruß. Ich sehe gern nach Mustern. An diesem Morgen sah ich außerdem nach Goblins.
 
 .. image:: /images/logbuchArtwork/Vogel.png
     :alt: Vogel
     :width: 500px
     :align: left
 
-Die Information war brauchbar: ein Teil der Goblins schlief, ein Teil stand Wache. Ich nutzte die verbleibende Zeit, um das Ritual der Magischen Rüstung durchzuführen — nicht aus Angst, sondern aus methodischen Gründen. Ein unvorbereiteter Magier in einem Angriff ist eine Ressource, die man verschwendet.
+Fenwick tat etwas Nützliches und gleichzeitig sehr fenwickhaftes: Er begann, sich mit einem Vogel zu unterhalten.
 
-Dann kamen fünfzehn Goblins, angeführt von einem, der stärker war als die anderen — das war in der ersten Sekunde spürbar. Ich werde den Kampf nicht im Detail beschreiben, weil Kämpfe keine Struktur haben, die sich gut beschreiben lässt: es ist Lärm, Entscheidung, Reaktion, und danach stehen die einen noch, die anderen nicht. Wir standen noch. Alle fünfzehn Goblins, einschließlich des starken, lagen am Boden.
+Der Vogel flog zum Lager, kam zurück und verlangte Brotkrumen für seine Auskunft. Ich halte es für bemerkenswert, dass manche Geschöpfe eine klarere Preisstruktur besitzen als Händler mit unetikettierten Tränken. Der Vogel berichtete, dass ein Teil der Goblins schlief und ein anderer Wache hielt.
 
-Was ich nach dem Kampf bemerkte, ist schwerer zu formulieren. Es war weniger eine Erschöpfung als eine Klärung — als hätte die Anspannung des Gefechts etwas in mir verschoben, das vorher an der falschen Stelle saß. Bestimmte Formeln in meinem Zauberbuch, die ich kannte aber nicht vollständig verstand, schienen plötzlich ihre Lücken geschlossen zu haben. Ich weiß nicht, ob das Einbildung ist. Ich notiere es trotzdem, weil mein Zauberbuch auch das vermerkt: was sich verändert, auch wenn ich nicht erklären kann, warum.
+Das war eine brauchbare Ordnung. Vor dem Angriff wirkte ich Magische Rüstung als Ritual. Ich suchte die Stille, die Vaelrith mir beigebracht hatte, nicht die leere Stille, sondern die geordnete. Atem. Linie. Wiederholung. Die Welt blieb dieselbe, aber um meinen Körper legte sich ein Gedanke aus Schutz, dünn und unsichtbar, doch nicht wirkungslos. Ich vertraue Rüstungen aus Metall mehr, wenn andere sie tragen. Für mich war diese besser.
 
-Der Hollerhof liegt vor uns. Der Keller ist intakt.
+Dann begann der Kampf. Fünfzehn Goblins und ein stärkerer Anführer brachen über uns herein. Man kann über Goblins vieles sagen, aber nicht, dass sie Ordnung schätzen. Sie kamen in Lärm, Zähnen, rostigen Waffen und einer Art wütender Zuversicht, die bei kleinen Kreaturen oft nur deshalb funktioniert, weil sie nicht allein sind.
 
-Der Dolch war nicht unter den fünfzehn Goblins. Er muss noch irgendwo sein.
+Wir schlugen sie nieder. Das klingt kürzer, als es sich anfühlte. Kämpfe haben die unangenehme Eigenschaft, Zeit zu zerschneiden. Ein Atemzug ist zu lang, wenn eine Klinge kommt. Ein ganzer Schlagabtausch ist zu kurz, wenn man danach erklären soll, wer wo stand. Am Ende lagen Goblins im Hof, der Anführer war tot, und wir hatten den ersten sichtbaren Teil von Freisassens Problem beseitigt.
 
-Wir durchsuchten das Lager systematisch. Ich führte Magie entdecken aus, ließ die Detektion langsam über Trümmer und Ausrüstung wandern — nichts, keine Aura, kein Echo. Was von Wert ist, liegt tiefer.
+Der unsichtbare Teil blieb. Ich durchsuchte das Lager mit Magie entdecken. Die Welt veränderte sich nicht, doch ihre verborgenen Ränder traten deutlicher hervor. Ich suchte nach Auren, Resten, Spuren, nach einem Muster hinter den Diebstählen. Ich fand nichts Besonderes. Das beruhigte mich nicht. Ein ergebnisloser Zauber beweist nur, dass man an der geprüften Stelle nichts gefunden hat. Er beweist nicht, dass nichts da ist.
 
-Fulgora und Fenwick gingen in den Keller. Der Rest sicherte oben. Ich war, ich gebe es zu, weniger Wache als wartender Beobachter. Fenwick rief mich schließlich zu sich und übergab mir seinen Platz — warum, erklärte er nicht. Ich bin nicht sicher, ob er mich hinunterschickte, weil er einen Zauberer brauchte, oder weil er selbst nicht mehr hinuntergehen wollte. Ich stieg hinunter.
+Fulgora und Fenwick gingen zuerst in den abgelegenen Keller. Der Rest blieb oben, um gegen einen Hinterhalt zu sichern. Später erfuhr ich, dass es ein alter Erdkeller war. Auf dem Boden lagen Knochenhaufen. Fulgora erkannte Goblinknochen, sichtbar angenagt. Das ist eine Information, die man besser aus zweiter Hand erhält. Aus erster Hand riecht sie vermutlich stärker.
 
-----
+Dann rief Fenwick nach mir, und ich ging hinunter. Keller haben eine andere Dunkelheit als Höhlen. Höhlen sind ehrlich. Keller sind von Menschen gemacht und werden erst später von Dingen bewohnt, die Menschen dort nicht vorgesehen hatten. Dieser Keller roch nach Erde, altem Holz und etwas, das ich im ersten Moment nicht einordnen konnte.
 
-**Über Mimiken: eine Feldstudie unter unfreiwilligen Bedingungen**
+Fulgora untersuchte einen Stapel Kisten. Eine der Kisten entwickelte Zähne.
 
-Was folgte, gehört streng genommen in mein Zauberbuch, nicht in dieses Notizbuch — aber da beides aus denselben Händen stammt und dasselbe Ziel verfolgt, mache ich keine Ausnahme: ich beschreibe, was ich gesehen und geschlossen habe.
-
-Der Keller war alt, trocken, dunkel. Auf dem Boden lagen aufgehäufte Knochen, die Fulgora als goblinisch identifiziert hatte — mit Nagespuren, was auf einen Räuber hindeutet, der dort lebt oder lebte. Reihen von Regalen, gestapelte Kisten. Auf den ersten Blick: gewöhnlich.
-
-Die erste Mimik hatte die Form einer Kiste. Ich halte das für bedeutsam, weil es methodisch ist: eine Kiste ist das naheliegendste Objekt in einem Lager, das man öffnet, ohne nachzudenken. Fulgora untersuchte sie und die Kiste entwickelte Zähne. Das ist die einfachste Beschreibung, die ich geben kann, und gleichzeitig die präziseste. Die Mimik griff an — Fulgora wich aus, schlug dagegen, verfehlte knapp das Holz. Ich schoss Magiegeschosse, die mit einem hörbaren Knall in die Substanz eindrangen. Erste Beobachtung: Mimiken reagieren auf Schaden, aber sie zeigen Schmerz nicht durch Rückzug, sondern durch Aggression. Sie wechselten das Ziel zu mir.
-
-Barundar kam die Treppe herunter, schneller als ich ihn erwartet hätte, und stellte sich mit einer Körperhaltung zwischen mich und die Mimik, die ich als instinktiven Schutzreflex lesen würde und die ich nicht missverstehen will: er rief ihr zu, sich ihm zu stellen — keine taktische Überlegung, sondern eine Herausforderung in dem Sinn, wie Zwerge Herausforderungen meinen, wenn sie ihnen etwas bedeuten. *„Kein Weg vorbei"* — drei Wörter, und die Mimik folgte ihm, als hätte Wut eine Logik, der man sich nicht entziehen kann.
-
-Kung Lao erschien, ohne dass ich ihn hereinkommen gehört hatte. Er schlug mit bloßen Fäusten. Zweite Beobachtung: er schlägt auf eine Art, die ich nur als Technikausdruck beschreiben kann — nicht stärker als nötig, nicht schwächer, jeder Schlag ein Urteil, kein Affekt.
-
-Dann fiel im hinteren Bereich des Kellers ein Regal um, und eine zweite Mimik sprang aus den Schatten. Diese verbiss sich in Fulgoras Bein — ich höre noch den Laut, den das Holz beim Zubeißen machte, und das Zischen, das danach kam, war Säure. Dritte Beobachtung: Mimiken verfügen über einen Säureangriff, der durch die Zähne erfolgt. Praktischer Hinweis: nicht festhalten lassen.
-
-Fenwick war inzwischen ebenfalls im Keller. Er streckte die Hand aus und ein Lichtstrahl — er nannte es nicht so, aber die Form war die eines konzentrierten Mondlichtstrahls, schmal und kalt — traf die erste Mimik und ließ dämmeriges Leuchten aus dem Holz treten. Ich notiere: Fenwick verfügt über Druidenzauber, die er im Gelände nicht eingesetzt hat. Entweder sind die Gelegenheiten falsch gewesen, oder er kalkuliert, wann er was zeigt. Ich tendiere zum zweiten.
-
-Fulgora hatte die Verletzung am Bein, kämpfte aber mit einer Intensität, die ich sachlich als Zornkaskade beschreiben würde — eine Reihe von Schlägen, schnell, schwer, die Klinge schneidend durch die Luft. Dann öffnete sie den Mund und spie Feuer. Fulgora Daardendrian ist Drachenblütige — das wusste ich. Aber das Feuer, das sie spie, kam nicht aus einer Waffe, sondern aus ihr selbst, und das ist der Unterschied zwischen Wissen und Sehen. Das Holz der Mimik knisterte und roch nach versengter Rinde.
-
-Die erste Mimik, inzwischen durch Barundar an die Wand getrieben und schließlich mit einem einzigen Hammerschlag zertrümmert — das Holz knackte wie eine Nuss, wie er es ausdrückte, und ich glaube, er hat das mit voller Absicht so ausgedrückt —, war erledigt.
+Ich hielt es bis zu diesem Tag für eine verlässliche Eigenschaft von Möbeln, dass sie sich nicht eigenständig fortbewegen. Diese Annahme war falsch.
 
 .. image:: /images/logbuchArtwork/mimik.png
     :alt: Mimik
     :width: 500px
     :align: right
 
-Die zweite hielt Fulgora noch immer fest. Biss ein zweites Mal. Dampfendes Blut, schwere Verletzung. Fenwick legte ihr die Hände auf die Schulter — ein grünes Leuchten am Bein. Dann, und das ist die vierte und seltsamste Beobachtung, griff Kung Lao die zweite Mimik an, ohne die Augen zu öffnen. Ich bin sicher in dieser Wahrnehmung. Er schlug zu und trat mit einer Präzision, die bei geschlossenen Augen keine Präzision sein sollte — und traf trotzdem. Mehr noch: er griff in das Maul der Mimik, erfasste die Zunge, und riss sie mit einer Drehung heraus. Grünes Blut auf dem Boden. Die Mimik war tot.
+Die Mimik schnappte nach Fulgora und verfehlte sie knapp. Fulgora konterte, doch ihr Schlag landete schmetternd im Holz neben dem Maul. Ich formte Magische Geschosse. Drei Lichter lösten sich aus meiner Hand, präzise und beinahe höflich in ihrer Gewalt, und schlugen mit lautem Knall in das Holz der Kreatur. Das Nachzittern lief mir den Arm hinauf.
 
-Ich überprüfte zur Sicherheit die verbleibenden Möbel mit dem Kältestrahl — dem verlässlichsten meiner einfachen Zauber, wenn es darum geht, etwas zu testen, das man nicht berühren möchte. Nichts.
+Die Mimik klapperte vor Wut. Sie versuchte noch einmal, Fulgora zu erwischen, verfehlte sie wieder und sprang dann auf mich zu.
 
-Was ich aus dieser Begegnung mitnehme: Mimiken sind keine denkenden Gegner im strategischen Sinn, aber sie sind geduldige Jäger — die Verkleidung, die Warteposition, der Wechsel des Ziels nach Abschreckung. Sie lernen nicht, aber sie adaptieren innerhalb des Kampfes. Außerdem: die Zunge ist eine Verwundbarkeit, und eine Säureverletzung muss sofort behandelt werden. Ich vermerke beides für spätere Zwecke.
+Es gibt Momente, in denen der Verstand sehr schnell arbeitet und dennoch zu keiner nützlichen Empfehlung kommt. Meine erste Erkenntnis war: Die Kiste will mich fressen. Meine zweite: Ich hatte keine ausreichende Theorie darüber, wie man mit einer hungrigen Kiste verhandelt.
 
-----
+Fulgora nutzte die Bewegung und beschädigte mit ihrer Glefe den Deckel der Mimik. Barundar kam die Treppe hinunter wie ein Urteil mit Stiefeln. Er stellte sich zwischen mich und die Kreatur, Hammer erhoben, Blick grimmig.
 
-Barundar fand im Keller einen Dolch und steckte ihn ein, ohne etwas zu sagen. Ich bemerkte es nicht im Moment — er erwähnte es erst später. Ich bemerkte stattdessen eine Schublade, in der ein Gegenstand eine schwache magische Aura ausstrahlte: ein messingfarbenes Ei, so groß wie meine Kopf, noch warm. Ein :doc:`Drachenei <Drachenei>`. Messingfarbene Drachen sind in der Wüste von Aschur beheimatet — umgänglicher als die meisten ihrer Art, was dieses Ei nicht weniger ungewöhnlich macht an einem abgebrannten Bauernhof in zwei Tagesreisen Entfernung von nichts Besonderem.
+„Stell dich mir. Kein Weg vorbei.“
 
-Wir sprachen kurz darüber, ob es sich um Schmuggelware handeln könnte, und kamen zu keinem Ergebnis. Die Lage des Eies — außerhalb des eigentlichen Goblinlagers, ausschließlich durch die Mimiken bewacht — legt nahe, dass es schon vor den Goblins hier war. Jemand hat es dort deponiert oder versteckt, und die Goblins haben den Hollerhof danach in Besitz genommen, ohne vom Keller zu wissen. Oder ohne den Keller betreten zu wollen, angesichts der Mimiken. Ich halte die Frage offen.
+Bei Barundar klang das nicht wie eine Drohung. Es klang wie eine bauliche Tatsache.
 
-Barundar baute mir einen provisorischen Tragerahmen aus Zeltplanen. Das Ei reist unter meinem Mantel mit.
+Kung Lao erschien fast lautlos und schlug mit bloßen Fäusten auf die Mimik ein. Dann fiel im hinteren Teil des Kellers ein Regal um.
 
-Draußen bemerkte Fulgora das Gewicht unter meinem Mantel. Ich zeigte ihr das Ei — sie hielt es kurz und sagte, messingfarbene Drachen gäben ein Ei nicht freiwillig ab. Dann zeigte Barundar, was er gefunden hatte: eine Tasche mit Staub, einen Trank, und den Dolch.
+Eine zweite Mimik sprang aus den Schatten. Ich begann an diesem Punkt, den Keller innerlich nicht mehr als Raum, sondern als Studie zu behandeln. Thema: Raubtierverhalten getarnter Objekte unter beengten Bedingungen. Erste Beobachtung: Eine Mimik ist gefährlich. Zweite Beobachtung: Zwei Mimiks sind kein doppeltes Problem, sondern ein unordentliches.
 
-Beide — Fulgora und ich, gleichzeitig — erkannten das Wappen auf dem Dolch.
+Die zweite Mimik erwischte Fulgora am Oberschenkel. Ein feines Zischen folgte dem Biss. Säure. Fulgoras Gesicht verzog sich nicht zu Schmerz, sondern zu Hass. Das war auf seine Art beruhigend, denn bei Fulgora bedeutete Hass meistens, dass sie noch handlungsfähig war.
 
-Es ist dasselbe wie auf Barundars Schild.
+Fenwick kam in den Keller und riss die Hand hoch. Ein Lichtstrahl entglitt seiner Hand, erhellte den Raum für einen Augenblick und schlug in die erste Mimik. Holzsplitter lösten sich aus ihr. Ein dämmeriges Leuchten blieb in den Rissen zurück. Ich kannte den Zauber nicht sicher, aber er roch nach Druidenmagie: weniger nach Formel, mehr nach Himmel, der sich durch eine kleine Hand presst.
 
-Er schwieg einen Moment, dann sagte er, der Dolch sei vermutlich von seinem Vater oder seinem Bruder gefertigt worden. Mehr sagte er nicht sofort, aber der Satz hatte das Gewicht von etwas, das er lange nicht ausgesprochen hatte. Warum ein Handwerksstück dieser Güte weitergegeben wurde und wie es zu einem Schmied in Freisassen gelangte — das blieb offen. Edgar muss noch befragt werden.
+Fulgora sammelte ihre Wut in einer Reihe schneller Schläge. Ihre Glefe zischte durch die Luft und traf den Deckel der zweiten Mimik zweimal. Ich versuchte einen Kältestrahl und verfehlte. Kung Lao wich einer schnappenden Kiste aus, drehte sich so knapp, als habe er vorher mit der Luft verhandelt, und trat sie in die Seite.
 
-----
+Barundar band die erste Mimik an sich. Sein Hammer traf sie und warf sie gegen die Kellerwand. Die zweite Mimik biss erneut nach Fulgora. Diesmal schrie sie. Der Biss ging durch ihre Rüstung, und dampfendes Blut rann über ihr Bein.
 
-Wir nahmen den Schädel des Anführers als Beweisstück, wickelten ihn in Stoff und kehrten ins Dorf zurück, das wir zur vierzehnten Stunde erreichten. Die Wächter empfingen uns. Wir berichteten vom Erfolg, zeigten den Schädel, und schwiegen über das Ei. Man beglückwünschte uns. Wir gingen in die Schenke, wuschen uns, und ruhten.
+Fenwick öffnete die Handfläche. Ein gleißender Mondstrahl schoss daraus hervor und traf die Kreatur, die sich in Fulgora verbissen hatte. Licht lag im Holz, als hätte der Keller für einen Augenblick vergessen, dass er unter der Erde war.
 
-Vorher jedoch - Edgar.
+Fulgora griff mit roher Gewalt in das Maul der Mimik und zwang es auseinander. Das Knarzen klang wie eine Tür, die nicht geöffnet werden wollte. Sie befreite ihr Bein und zwang ihren Körper mit einem Durchschnaufen zurück in Kampffähigkeit. Keine sanfte Heilung. Eher ein Befehl an Fleisch und Blut, sich später zu beschweren.
 
-Barundar übergab dem Schmied den Dolch und stellte Fragen. Die Antwort lieferte mehr, als er gesucht hatte: Edgar hatte den Dolch als Bezahlung erhalten, von einem Zwerg, dem er Aufnahme und Heilung gewährt hatte. Der Zwerg hieß Dauger Eisenhall. Er war auf dem Weg in die Wälder von Lythandor.
+Ich sammelte Kälte in meiner Hand, und diesmal traf der Strahl. Blaues Licht wanderte zur Mimik. Ein Knistern lief über das Holz, Raureif legte sich um Kanten und Zähne, und für einen Augenblick leuchtete die Kreatur blau auf. Ihre Bewegung wurde schwerer, langsamer, als hätte der Keller sie festgehalten.
 
-Dauger Eisenhall ist Barundars Vater.
+Barundar nutzte den Moment. Sein Hammer traf die Mimik mit einem Klang, der mehr nach Schmiede als nach Kampf klang. Holz knackte wie eine Walnuss. Die Kreatur sackte leblos zu Boden.
 
-Ich beobachtete Barundars Gesicht während Edgar sprach. Er gab nichts preis — das tut er nie — aber es war eine andere Art von Schweigen als sonst, weniger versiegelt als erschüttert. Edgar übergab ihm den Dolch als Dank für die Befreiung des Dorfes. Barundar wehrte zunächst ab. Dann ließ er sich überzeugen. Er bot einen gleichwertigen Ersatz an, und Edgar nickte.
+Die zweite ließ nicht los. Der Mondstrahl glühte in ihr weiter auf. Fenwick sah Fulgoras Lage, rieb die Hände aneinander und legte sie ihr auf die Schulter. An ihrer Beinwunde erschien ein sanftes grünes Leuchten. Fulgora drehte sich hasserfüllt, riss das Maul auf und spie Feuer. Der Strahl traf den Deckel der Mimik, Flammen ummantelten das Holz, es knisterte, aber die Kreatur hielt noch immer an ihr fest.
 
-Abends gab es im Dorf ein kleines Fest. Wir wurden als Helden gefeiert, was ich verzeichne, ohne es weiter zu kommentieren. Die Bezahlung — acht Gold — wurde übergeben. Ich habe selten acht Gold erhalten und gleichzeitig weniger an das Geld gedacht.
+Barundars Hammer traf sie. Kung Laos Schläge wurden noch zielgerichteter. Dann tat er etwas, das ich als Beobachtung festhalten muss, obwohl ich es nicht gern wieder vor Augen habe: Er griff nach der Zunge der Mimik, drehte seinen Körper und riss sie heraus.
 
-----
+Grünes Blut verteilte sich auf dem Boden. Danach war der Keller stiller. Nicht ruhig. Nur stiller. Ich prüfte weitere Möbel mit Kältestrahl. Es war keine besonders elegante Methode, aber Eleganz ist weniger wichtig, wenn man gerade gelernt hat, dass Kisten Zähne haben können. Nichts Weiteres sprang uns an.
 
-**Barundars Gebet an der Esse: Transkription und Anmerkungen**
+Schließlich blieben nur Barundar und ich im Keller zurück. Er fand einen Dolch und steckte ihn an seinen Waffengurt. Ich bemerkte es in diesem Augenblick nicht. Meine Aufmerksamkeit lag auf einer Schublade.
 
-Nachts kehrte Barundar in Edgars Schmiede zurück, um einen gleichwertigen Ersatzdolch zu schmieden. Ich bat darum, anwesend zu sein, und er ließ es zu — schweigend, aber er ließ es zu. Was folgte, werde ich als das notieren, was es war: ein liturgischer Akt, vollständig und bewusst durchgeführt.
+Darin fand ich ein Ei. Es war messingfarben und warm.
 
-Er segnete Esse und Schmiede mit diesen Worten, die ich wortgenau festgehalten habe, weil ich kein Recht habe, sie zu kürzen:
+Für einen Moment standen alle anderen Dinge still. Nicht wirklich. Irgendwo tropfte noch etwas. Holz knarrte. Jemand bewegte sich über uns. Aber in meinem Kopf trat Stille ein, die Art Stille, in der ein Muster plötzlich zu groß wird, um sofort verstanden zu werden.
+
+Ein Drachenei. Ich wusste, dass messingfarbene Drachen ihre Heimat in der Wüste von Aschur haben. Dieses Wissen lag sauber in mir, wie ein Eintrag in einem gut geführten Archiv. Nur stand ich nicht in einem Archiv. Ich stand in einem Erdkeller unter einem abgebrannten Hof bei Freisassen, zwischen toten Mimiks, Goblinknochen und Holzsplittern.
+
+Das Ei war warm. Wir diskutierten kurz, ob es Schmuggelware sein konnte. Ob die Goblins es erbeutet hatten. Ob jemand anderes es dort versteckt hatte. Die Lage sprach gegen eine einfache Antwort. Das Ei lag außerhalb des Goblinlagers und war von Mimiks geschützt worden. Es konnte schon vor den Goblins dort gewesen sein. Es konnte auch bedeuten, dass wir nur die obere Schicht eines Problems entfernt hatten.
+
+Draußen sah Fulgora sofort, dass ich etwas unter meinem Mantel verbarg. Ich zeigte ihr das Ei. Sie nahm es in die Hand und betrachtete es. Bei Drachenblütigen ist ein solcher Blick schwer zu deuten, weil darin Wissen, Instinkt und etwas Persönlicheres liegen kann. Sie sagte, messingfarbene Drachen seien umgänglicher als manche anderen. Und sie halte es nicht für wahrscheinlich, dass ein solches Ei freiwillig abgegeben worden war.
+
+Das war keine beruhigende Einschätzung.
+
+Barundar zeigte eine Tasche mit Staub, einen Trank und den Dolch aus dem Keller. Staub und Trank blieben unbekannt. Der Dolch nicht.
+
+Zumindest nicht ganz. Bei genauer Betrachtung erkannten Fulgora und ich, dass das Wappen auf dem Dolch dem Wappen auf Barundars Schild entsprach.
+
+Barundar gab zu, dass der Dolch vermutlich von seinem Vater oder seinem Bruder geschaffen worden war. Das sagte er nicht wie jemand, der eine Kleinigkeit erklärt. Er sagte es wie jemand, der eine Tür öffnet und sofort prüft, ob dahinter Gefahr steht.
+
+Wir mussten mit Edgar sprechen. Barundar baute aus Zeltplanen einen provisorischen Rucksack, damit ich das Ei auf meinem Rücken tragen konnte. Es war eine praktische Lösung. Sie hatte nur einen Fehler: Ich trug nun ein warmes Drachenei auf dem Rücken und musste so tun, als sei dies ein gewöhnlicher Umstand.
+
+Wir wickelten den Kopf des Goblinanführers in ein Tuch und kehrten nach Freisassen zurück.
+
+Zur vierzehnten Stunde erreichten wir das Dorf. Die Wachen empfingen uns. Wir berichteten vom Sieg über die Goblins und zeigten den Schädel des Anführers. Das Ei erwähnten wir nicht.
+
+Manchmal ist Wahrheit eine Frage der Reihenfolge. Freisassen beglückwünschte uns. Wir rasteten in der Schenke und wollten uns später ein Bad gönnen. Vorher gingen wir noch einmal zu Edgar.
+
+Barundar übergab den Dolch. Edgar erkannte ihn und erzählte, wie er an ihn gekommen war. Ein Zwerg hatte ihn als Bezahlung für Aufnahme und Heilung gegeben. Sein Name war Dauger Eisenhall. Barundars Vater. Ich sah Barundar an und lernte in diesem Moment nichts Vollständiges über ihn. Nur genug, um zu wissen, dass der Dolch schwerer war, als sein Metall erklärte.
+
+Dauger Eisenhall war auf dem Weg zu den Wäldern von Lythandor gewesen. Warum, blieb offen. Weshalb er einen so wertvollen Dolch zurückließ, blieb ebenfalls offen. Edgar gab Barundar den Dolch als Dank für unsere Hilfe. Barundar weigerte sich zuerst, ihn anzunehmen. Das passte zu ihm. Er ließ sich schließlich überzeugen. Das passte ebenfalls zu ihm, aber nur, weil er im Gegenzug einen gleichwertigen Ersatz anbot.
+
+Später, als das Dorf ein kleines Fest für uns vorbereitete und wir unsere Bezahlung erhielten, arbeitete Barundar in der Schmiede. Ich blieb, um zu beobachten. Nicht aus Neugier allein. Der Unterschied ist wichtig. Neugier fragt: Was geschieht? Eine Studie fragt: Welche Ordnung trägt das Geschehen? Barundars Arbeit an der Esse war nicht bloß Handwerk. Sie war Gebet, Prüfung, Erinnerung und Ersatz in einem.
+
+Er begann:
 
 .. line-block::
 
-    *Thargrun Eisenmaß. Vater der Werke,*
-    *segne diese Esse und meine Hände.*
-    *Lass jeden Schlag bedacht sein,*
-    *jede Hitze geprüft,*
+    *Thargrun Eisenmass. Vater der Werke,*
+    *segne diese Esse und meine Hände*
+    *Lass jeden Schlag bedacht sein*
+    *jede Hitze geprüft*
     *jede Rune wahr.*
 
-    *Moradin Allvater,*
-    *bewahre mich vor Hochmut,*
+    *Moradin Allvater*
+    *Bewahre mich vor Hochmut,*
     *denn selbst der beste Stahl kann brechen.*
     *Ich beginne dieses Werk in eurem Namen.*
 
-    *Erz aus der Tiefe,*
+    *Erz aus der Tiefe*
     *Feuer aus dem Herzen der Welt.*
-    *Nimm Form durch meine Hand,*
-    *kein falscher Schlag,*
-    *keine gebrochene Rune,*
-    *was hier entsteht,*
-    *soll länger stehen als ich.*
+    *Nimm Form durch meine Hand*
+    *Kein falscher Schlag*
+    *Keine gebrochene Rune*
+    *Was hier entsteht*
+    *Soll länger stehen als ich.*
 
+Ich schrieb die Worte nicht sofort nieder. Ich hörte sie zuerst. Das ist bei Gebeten wichtig. Ein falsch gesetzter Buchstabe kann korrigiert werden. Ein falsch verstandener Rhythmus nicht. Barundars Stimme lag tief zwischen Amboss und Feuer. Jeder Schlag danach wirkte weniger wie Kraft als wie Antwort. Er schmiedete nicht hastig. Er prüfte. Er verwarf kleine Bewegungen, bevor sie Fehler wurden. Er behandelte Metall, als könne es lügen, wenn man es nicht sorgfältig genug befragt.
 
-Drei Götter oder Prinzipien: Thargrun Eisenmaß als Handwerksgott — Maß, Besonnenheit, das Handwerk als Pflicht; Moradin Allvater als übergeordnete zwergenische Schöpfungsinstanz; und eine dritte Ebene — die Elemente selbst als Adressat, Erz und Feuer als aktive Partner im Werk. Das ist keine einfache Bittformel. Es ist ein Dreischritt: Bitte um Würde, Bitte um Demut, Bitte um Kooperation der Materie.
+Die Arbeit war schweißtreibend. Sie roch nach heißem Eisen, Kohle, Öl und einer Konzentration, die fast körperlich im Raum stand.
 
-Ich notiere dabei: ich kenne Barundar als Paladin der Reinen Flamme. Diese Gebete gehören, soweit ich das einordnen kann, einer anderen Schicht seiner Überzeugungen — dem Handwerk, den Ahnen, der Materie. Ob beides miteinander spricht oder nebeneinander besteht, weiß ich nicht. Ich stelle die Frage, weil ich sie nicht beantworten kann.
-
-Er arbeitete schweigend. Die Schmiede war laut auf die Art, wie nur Schmieden laut sein können — Hammer, Feuer, Metall, das nachgibt. Nach einer Zeit, die ich nicht verlässlich schätzen kann, trat er zurück und sprach das abschließende Wort:
+Als das Werk vollendet war, sprach Barundar erneut:
 
 .. line-block::
 
-        *Das Werk ist vollendet, doch noch nicht geprüft.*
-        *Moradin, sieh und richte.*
-        *Ist es würdig, so lass es bestehen.*
-        *Ist es verdorben, so gib mir den Mut, es zu zerstören.*
-    
-        *Thargrun, nimm Maß an meiner Arbeit.*
-        *Barakryn — mögen die Ahnen urteilen, nicht ich.*
-        *Kein Werk ist größer als die Wahrheit, die es trägt.*
+    *Das Werk ist vollendet. Doch noch nicht geprüft.*
+    *Moradin sehe und richte*
+    *Ist es würdig, so lass es bestehen*
+    *Ist es verdorben, so gib mir den Mut es zu zerstören*
 
-Das Schlussgebet führt einen vierten Namen ein: Barakryn, Instanz der Ahnen. Das Urteil wird an vier Instanzen abgegeben — Moradin, Thargrun, Barakryn, und implizit an das Werk selbst. Der Handwerker spricht nicht von Stolz, sondern davon, dass er bereit ist, das Werk zu zerstören, wenn es schlecht ist. Diese Haltung finde ich bemerkenswert für einen Mann, der vor Stunden erfahren hat, dass sein Vater diesen Dolch als Bezahlung für Unterkunft und Heilung weggegeben hat.
+    *Thargrun nimm Maß an meiner Arbeit*
+    *Barakryn mögen die Ahnen urteilen, nicht ich*
+    *Kein Werk ist größer als die Wahrheit, die es trägt.*
 
-Ich frage mich, ob das Gebet auch für den Vater galt.
 
-----
+Ich verstand nicht alles. Das ist kein Makel einer Studie. Es ist ihr Anfang.
 
-Am Ende des Abends bat ich um die Dorfchroniken. Nichts Besonderes darin — keine Hinweise auf den Hollerhof, den Dolch, eine zwergenische Reise durch das Gebiet. Der Weg, den Dauger Eisenhall genommen hat, ist in keiner lokalen Aufzeichnung vermerkt.
+Später bat ich um Einsicht in die Dorfchroniken. Ich erhielt sie und fand keine Besonderheiten. Keine verborgene Notiz über Dracheneier. Keine Spur, die den Keller ordentlicher gemacht hätte. Manchmal schweigen Chroniken nicht, weil etwas verborgen wurde, sondern weil niemand wusste, dass es wichtig war.
 
-Wir planten das weitere Vorgehen. Die Gruppe ist sich einig: Kronheim als nächstes Ziel. Ich werde die dortige Bibliothek aufsuchen — messingfarbene Drachen, das Wappen auf dem Dolch, Lythandor, Dauger Eisenhall. Es gibt genug Fäden für eine gründliche Suche. Die anderen werden Alrik Eisenmähne sprechen.
+Am Abend feierte Freisassen uns als Helden. Ich erhielt acht Gold. Ich nahm das Geld an. Es war die offizielle Bezahlung für einen erledigten Auftrag. Doch der eigentliche Wert des Tages ließ sich nicht zählen. Er lag in Beobachtungen: Goblins, die nur der sichtbare Teil waren. Mimiks, die sich als Kisten tarnten. Ein Dolch, der Barundars Schweigen berührte. Ein Schmiedegebet, das Handwerk und Wahrheit in dieselbe Esse legte.
 
-Das Ei ist noch warm.
+Und ein warmes messingfarbenes Drachenei, das ich vor dem Dorf verborgen hielt. Wir beschlossen, nach Kronheim zu reisen. Ich wollte die Bibliothek aufsuchen. Die anderen wollten mit Alrik Eisenmähne sprechen.
+
+Das war ein vernünftiger Plan. Ich hätte mich darüber beruhigen können. Aber während Freisassen feierte und Barundars neuer Dolch abkühlte, spürte ich das Gewicht des provisorischen Rucksacks und die Wärme darin. Acht Gold waren leicht zu zählen. Ein Drachenei nicht.
+
+Manche Dinge trägt man auf dem Rücken.
+
+Andere beginnen dort nur.
+
+
+
+
+
+
