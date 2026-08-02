@@ -248,6 +248,9 @@ footer {
 
     .post-body img {
         max-width: 100%;
+        width: auto;
+        height: auto !important;
+        object-fit: contain;
     }
 
     .post-body img.align-left,
