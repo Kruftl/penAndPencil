@@ -35,6 +35,8 @@ Er fiel. Ich hatte keine Zeit, diesen Umstand angemessen zu betrachten. Barundar
 
 Dann war es vorbei. Zwei Menschen und ein Hund lagen auf einer Straße, die ihnen nie gehört hatte. Einige aus der Gruppe durchsuchten die Toten. Ich tat es nicht. Ich weiß daher nicht, was sie fanden, falls sie etwas fanden. Mir genügte in diesem Augenblick der Staub auf meinen Fingern, das leise Nachzittern des Zaubers in meinem Arm und die Feststellung, dass Reisen nur solange gemütlich sind, bis jemand beschließt, Eigentum aus Erde zu behaupten.
 
+---
+
 Wir setzten unseren Weg fort. Am Abend schlugen wir ein Lager auf. Feuer, Wagen, Waffen in Reichweite, die Pferde versorgt. Es ist erstaunlich, wie schnell Menschen und andere vernünftige Wesen nach Blut wieder zu kleinen Ordnungen zurückkehren. Vielleicht ist genau das der Zweck von Lagern: ein Kreis aus Licht, in dem man für eine Nacht so tun kann, als wäre die Welt begrenzt.
 
 Wir sprachen mit Bodron über Freisassen. Je länger er erzählte, desto weniger gefiel mir das Bild. Die Goblins griffen an, stahlen, verschwanden. Doch in seinen Worten lag kein klares Muster. Kein erkennbarer Rhythmus, keine einfache Strategie, kein sauberer Zweck. Natürlich muss ein Muster nicht fehlen, nur weil der Beobachter es nicht erkennt. Ich habe in Archiven genug scheinbar ungeordnete Texte gesehen, die sich erst nach der dritten Lesung öffneten. Aber bei Texten weiß man wenigstens, dass jemand sie geschrieben hat. Bei Goblins ist das keine sichere Annahme.

@@ -108,6 +108,12 @@ Wir mussten mit Edgar sprechen. Barundar baute aus Zeltplanen einen provisorisch
 
 Wir wickelten den Kopf des Goblinanführers in ein Tuch und kehrten nach Freisassen zurück.
 
+.. image:: /images/logbuchArtwork/goblinanfuehrerkopf-im-blutbefleckten-tuch.png
+    :alt: Sprung vom Wagen
+    :height: 600px
+    :align: right
+
+
 Zur vierzehnten Stunde erreichten wir das Dorf. Die Wachen empfingen uns. Wir berichteten vom Sieg über die Goblins und zeigten den Schädel des Anführers. Das Ei erwähnten wir nicht.
 
 Manchmal ist Wahrheit eine Frage der Reihenfolge. Freisassen beglückwünschte uns. Wir rasteten in der Schenke und wollten uns später ein Bad gönnen. Vorher gingen wir noch einmal zu Edgar.

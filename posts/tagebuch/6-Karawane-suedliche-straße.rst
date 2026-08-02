@@ -40,6 +40,11 @@ Ruhige Nächte auf einer Reise sind nützlich. Sie sind außerdem verdächtig, s
 
 Mit der Zeit kamen die Kopfschmerzen. Nicht plötzlich. Keine Klinge, kein Schlag. Eher ein Druck, der sich hinter den Augen sammelte und dort blieb, als hätte sich ein Gedanke festgesetzt, den ich noch nicht gedacht hatte. Ich trank mehr. Ich prüfte, ob meine Zunge trocken war, ob meine Hände zitterten, ob mein Blick unscharf wurde. Die Wüste bot genug einfache Erklärungen an, und einfache Erklärungen haben den Vorteil, dass man sie gern annimmt.
 
+.. image:: /images/logbuchArtwork/karawane-aus-sicht-des-kutschbocks.png
+    :alt: Sprung vom Wagen
+    :height: 600px
+    :align: right
+
 Dehydrierung war eine davon. Sie passte zur Hitze. Sie passte zur Reise. Sie passte zu meinem Körper, der nie so tat, als sei er für Beschwerden aus Stein und Sonne geschaffen.
 
 Dann begannen verschiedene von uns, Stimmen zu hören. Nicht klare Worte. Nicht zuerst. Eher der Eindruck, dass jemand gesprochen hatte, obwohl der Mund der nächsten Person geschlossen war. Ein halber Laut am Rand des Bewusstseins. Eine fremde Anwesenheit im eigenen Denken, die verschwand, wenn man sich darauf konzentrierte.

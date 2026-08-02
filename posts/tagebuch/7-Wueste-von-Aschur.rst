@@ -67,6 +67,11 @@ Ich bot an, ihr einige meiner Zauber zu zeigen. Das war nicht nur Mut, sondern a
 
 Sie wirkte erfreut, und ich begann mit einer Übung aus meiner Lehrzeit. Die tanzenden Lichter entstanden vor mir, erst als einzelne Glutpunkte, dann als geordnete kleine Sterne. Ich führte die Hände langsam, nicht weil die Bewegung allein den Zauber trug, sondern weil mein Geist Ordnung besser hält, wenn der Körper sie nachzeichnet. Die Magierhände formten sich unsichtbar und doch spürbar, Drucklinien in der Luft, Finger ohne Fleisch. Sie nahmen die Lichter auf und ließen sie kreisen.
 
+.. image:: /images/logbuchArtwork/anors-blick-auf-amaras-thron.png
+    :alt: Amélia Plays
+    :width: 500px
+    :align: left
+
 Ein Licht stieg, eines sank, zwei kreuzten einander. Ich hielt ihren Abstand gleichmäßig. Vaelrith hätte die Linie meiner linken Hand korrigiert; ich korrigierte sie selbst. Die Lichter bewegten sich schneller. Sie wurden zu einem Kreis, dann zu einer Spirale, dann zu einem Muster, das nur für einen Atemzug hielt, bevor es sich wieder löste. In der kühlen Luft des Horts wirkten sie klarer als draußen. Ihr Schein brach sich an Metall und Gold, sprang in Ringen, Ketten, Augen und polierten Kanten weiter, bis ich für einen Moment nicht mehr sicher war, welche Lichter meine waren und welche der Hort mir zurückwarf.
 
 Dann trat ich in die Mitte des Kreises. Ich rief Nebel um mich, dicht und niedrig, als wäre die Höhle plötzlich bereit, eine Wolke zu träumen. Er schloss sich um meine Beine, dann um meinen Körper, und ich ließ ihn nicht einfach entstehen, sondern drängte ihn unter mich, Schicht um Schicht, bis die Welt nachgab.
