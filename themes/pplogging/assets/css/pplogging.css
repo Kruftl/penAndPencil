@@ -58,7 +58,7 @@ header {
 .sidebar ul li a img {
     display: block;
     width: 120px;
-    height: 60px;
+    height: auto;
     transition: opacity 0.15s;
 }
 
