@@ -28,6 +28,11 @@ Dann trat Fusette auf, und die Ordnung meiner Fragen verschob sich.
 
 Sie war ein kleiner Gnom mit pinkem Iro und einer Erscheinung, die mir sofort erklärte, dass sie ihre Zeit lieber in Werkstätten als vor Spiegeln verbrachte. Das meine ich nicht abwertend. Es gibt Menschen, Zwerge und vermutlich auch Gnome, deren Kleidung den Wunsch ausdrückt, gesehen zu werden. Bei Fusette wirkte alles an ihr so, als habe es irgendwann einmal dem Schutz vor Funken, Öl, Dampf oder einem ungeduldigen Werkzeug gedient. Ihr Äußeres schien weniger vernachlässigt als schlicht in eine andere Rangordnung verwiesen.
 
+.. image:: /images/logbuchArtwork/fusette-vor-mechanischer-pferdeflanke.png
+    :alt: Fusette vor mechanischer Pferdeflanke
+    :width: 500px
+    :align: left
+
 Sie führte uns zu einer Kutsche ohne Pferde, was zunächst nicht wie ein Fahrzeug wirkte, sondern wie eine Frage mit Rädern. Wir setzten uns trotzdem hinein und warteten auf jenen Teil des Vorgangs, bei dem Ochsen, Pferde oder wenigstens etwas Lebendiges vor das Gestell gebracht würde. Barundar und Armelia wirkten bereits in diesem Moment nicht erfreut. Ich sage wirkten, weil Gesichter keine Bücher sind, auch wenn ich sie in schlechten Augenblicken so behandle. Doch Barundars Verschlossenheit und Armelias gespannte Ruhe hatten beide einen Zug, der zu einem stählernen Gefährt nicht passen wollte.
 
 Fusette stieg auf den Kutschbock und legte einen Hebel um.
@@ -49,6 +54,11 @@ Die Reise verlief ohne weitere Zwischenfälle. Das ist ein Satz, der in einem Ta
 Als wir den Basar von Aschan erreichten, erinnerte ich mich daran, dass ich ihn schon einmal gesehen hatte. Nur einmal, und mehr im Vorübergehen als im Verstehen. Eine Stadt erkennt man beim Durchreisen nicht wirklich. Man nimmt Tore, Gerüche, Stimmen, Farben und Gefahren wahr, doch ihr Muster bleibt darunter verborgen wie Schrift unter Sand. Aschan war für mich kein vertrauter Ort, sondern eine alte Randnotiz, die plötzlich zum Haupttext geworden war.
 
 Der Basar war von Echsenmenschen und Tabaxi bewohnt, und schon diese Mischung gab der Stadt eine andere Bewegung als den Orten, aus denen wir gekommen waren. Körper, Stimmen, Kleidung, Schwänze, Krallen, Ware, Staub und Gewürzgeruch schoben sich ineinander. Der große Basarring lag wie ein Herz in diesem Durcheinander, wobei Herzen in Städten selten nur dazu da sind, Blut zu bewegen. Sie verkaufen, belauschen, täuschen, vermitteln und vergessen.
+
+.. image:: /images/logbuchArtwork/haendlergespraech-am-marktstand.png
+    :alt: Tabaxi und Echsenmensch am Marktstand
+    :width: 500px
+    :align: right
 
 Wir gingen dorthin, weil wir eine ortsansässige Söldnergruppe finden wollten. Das klang einfacher, als es war. Auf einem Basar nach Söldnern zu fragen, ist ungefähr so hilfreich wie in einer Bibliothek nach Schrift zu fragen. Man erhält nicht keine Antwort, sondern zu viele mögliche Richtungen.
 
