@@ -18,8 +18,7 @@ Dann klopfte es. Barundar öffnete die Tür, und ein junger Tabaxi stand mit ein
 .. image:: /images/logbuchArtwork/barnaby-feuerball-ohne-hut.png
     :alt: Barnaby Knallfunke erzeugt einen Feuerball
     :width: 400px
-    :align: right
-
+    :align: left
 
 Der Halbling nannte sich Barnaby Knallfunke. Ich bezweifelte seine magischen Fähigkeiten, was sich als eine Entscheidung mit unmittelbaren Folgen erwies. In seiner Hand entstand eine knisternde Flamme. Sie war kein unkontrolliertes Feuer, sondern der sichtbare Anfang eines Zaubers, dessen Umfang ich aus früheren Beobachtungen kannte. Barnaby ließ sie wieder verlöschen, bevor daraus ein Feuerball werden konnte. Mein Zweifel war damit ausgeräumt, und meine Dankbarkeit darüber, dass der Beweis nicht in unserer Unterkunft eingeschlagen hatte, hielt sich die Waage mit meiner Verärgerung über die gelungene Vorführung.
 
@@ -31,7 +30,7 @@ Beim Essen und in der oberen Etage berieten wir über das weitere Vorgehen. Wir 
 
 Schließlich teilten wir uns auf. Kung Lao, Barundar und ich gingen in die Bibliothek. Taelin und Aleina sollten das Haus bis zum Abend beobachten und uns berichten. Amelia, Fulgora und Fenwick wollten Laila aufsuchen. Zur sechzehnten Glocke wollten wir uns wieder im Lager treffen. Eine klare Uhrzeit war beruhigend. Sie war nur leider kein Schutz gegen das, was zwischen zwei Glockenschlägen geschehen konnte.
 
-Barundar übernahm Kung Laos Führung. In der Bibliothek sprachen wir erneut mit Samir Steinhaut und bezahlten eine Goldmünze für den Zugang. Eine Wache führte uns nach oben und blieb im Vorraum des zweiten Stockwerks. Wir verteilten uns zwischen den Regalen und suchten zunächst nach Bannkreisen. Die erste Stunde lieferte mir vor allem allgemeine Erkenntnisse, also genau jene Art von Wissen, die beweist, dass ein Thema existiert, ohne zu erklären, was es mit unserem Keller zu tun hatte.
+Barundar übernahm Kung Laos Führung. In der Bibliothek sprachen wir erneut mit Samir Steinhaut und bezahlten eine Goldmünze für den Zugang. Eine Wache führte uns nach oben und blieb im Vorraum des zweiten Stockwerks. Den Zugang zum Dämonenbereich verweigerte sie uns jedoch zunächst. Daraufhin ließ ich Grablschnack los und schickte ihn frei in den verbotenen Bereich. Er sollte dort nach interessanten Büchern suchen, die uns bei der Suche nach Varkhur oder bei der Deutung der Runen weiterhelfen konnten. Während er zwischen den verbotenen Regalen suchte, verteilten wir uns im zugänglichen Teil und suchten nach allgemeinen Hinweisen zu Bannkreisen. Ich musste darauf vertrauen, dass mein Vertrauter etwas Brauchbares fand. Die erste Stunde lieferte mir vor allem allgemeine Erkenntnisse, also genau jene Art von Wissen, die beweist, dass ein Thema existiert, ohne zu erklären, was es mit unserem Keller zu tun hatte.
 
 Erst bei der vertieften Suche nach Anrufungsmagie begannen sich die Zeichen zu ordnen. Das Zeichen am Boden hatte offenbar der Kommunikation gedient, während das Zeichen an der Wand für eine Herbeirufung bestimmt gewesen war. Die beschädigten Runen wirkten wie eine Adresse, nicht wie ein vollständiger Zauber. Damit war meine erste Vermutung einer einzigen Beschwörung zu grob gewesen. Ich wusste nun mehr über die Funktion der Zeichen, aber noch immer nicht, an wen sie sich gerichtet hatten oder wer sie eingerichtet hatte.
 
@@ -39,9 +38,7 @@ Ich bemerkte zuerst nur die Bewegung eines Buches. Als ich den Blick hob, stand 
 
 Bei dieser Gelegenheit erfuhren wir auch, dass Barnaby weiterhin die Magierakademie leitete. Sein Ansehen als Bürger und Magier verschaffte uns Zugang zum Dämonenbereich. Ich hätte es vorgezogen, wenn er diese Information bereits bei seiner ersten Vorstellung genannt hätte. Dann hätten wir seine Bewerbung, seine Beeinflussung Lukans und seine Vorführung von Anfang an im Licht seiner tatsächlichen Stellung beurteilen können. Andererseits hätte das vermutlich nichts daran geändert, dass er Lukan zuvor beeinflusst hatte. Ein Titel konnte erklären, warum die Wachen ihm vertrauten. Er erklärte nicht, warum er dieses Vertrauen zunächst magisch verstärkt hatte.
 
-Seine Stellung war nützlich, aber kein Beweis für seine Aussagen. Die Wachen gewährten uns Zutritt; erst die Bücher konnten zeigen, ob wir dadurch auch der Wahrheit näherkamen.
-
-Zwischen den Regalen sammelte ich Grablschnack ein. Mein Vertrauter hatte sich auf eine Weise durch das Regal bewegt, die ich nicht näher untersuchen konnte, ohne entweder die Bibliothek oder meine Geduld zu beschädigen. Ich verbarg ihn wieder unter meinem Mantel und wandte mich den Büchern zu. Wir fanden Varkhurs Namen und sein Zeichen, außerdem einen Bezug zur Runenmagie. Der Text erklärte wenig und schien seinem eigenen Gegenstand nicht vollständig gewachsen zu sein. Der Dämon galt als bösartig, aber unbedeutend. Mehr ließ sich daraus nicht zuverlässig gewinnen.
+Seine Stellung war nützlich, aber kein Beweis für seine Aussagen. Erst nachdem sein Ansehen uns den Zugang zum Dämonenbereich verschafft hatte, konnten wir selbst zwischen dessen Regalen suchen. Dort sammelte ich Grablschnack wieder ein. Mein Vertrauter hatte sich auf eine Weise durch die Regale bewegt, die ich nicht näher untersuchen konnte, ohne entweder die Bibliothek oder meine Geduld zu beschädigen. Ich verbarg ihn wieder unter meinem Mantel und wandte mich den Büchern zu. Wir fanden Varkhurs Namen und sein Zeichen, außerdem einen Bezug zur Runenmagie. Der Text erklärte wenig und schien seinem eigenen Gegenstand nicht vollständig gewachsen zu sein. Der Dämon galt als bösartig, aber unbedeutend. Mehr ließ sich daraus nicht zuverlässig gewinnen.
 
 Dann fiel ein Buch auf Kung Laos Kopf.
 
@@ -53,7 +50,7 @@ Was währenddessen bei Laila geschehen war, erfuhren wir erst nach unserer Rück
 
 Rakan Staubschweif ging demnach alle zwei Tage in das Zielhaus und arbeitete mit der Stadtwache zusammen. Rakan hatte den Auftrag, das Haus zu überwachen, doch wer ihn beauftragt hatte und was genau er dort suchte, blieb unbekannt. Rashid hielt Narek außerdem für weniger dienstbeflissen als früher und kannte die Gerüchte, dass Nareks Sohn entführt worden war. Unser Einbruch war beobachtet worden. Sogar Barnabys Anschluss an uns war bemerkt worden, und man hielt ihn für einen exzentrischen Magier.
 
-Damit war der Verdacht, dass das Haus mehr als eine zufällige Adresse gewesen war, stärker geworden. Ein Verdacht ist allerdings nur eine Annahme, die so lange aufrecht steht, bis eine bessere Erklärung sie ersetzt. Wir hatten noch keine bessere Erklärung.
+Damit war der Vrighterdacht, dass das Haus mehr als eine zufällige Adresse gewesen war, stärker geworden. Ein Verdacht ist allerdings nur eine Annahme, die so lange aufrecht steht, bis eine bessere Erklärung sie ersetzt. Wir hatten noch keine bessere Erklärung.
 
 Die drei hatten außerdem das Heiligtum der Wüstenseelen und das Haus der Schattenpriester gesehen. Am Heiligtum standen mehrere Wachen mit schwarzen Ringen, darunter Stadtwachen und Echsenmenschen. Daneben bewegten sich auch Personen ohne Ringe. Das Heiligtum besaß viele Eingänge und war mäßig belebt. Am Haus der Schattenpriester wirkte die Stimmung besser und der Betrieb lebhafter. Dort waren weniger Ringträger unterwegs, die eher beobachteten als Wache zu halten schienen.
 
@@ -97,3 +94,8 @@ Am Morgen hatte ich nur die knisternde Flamme in seiner Hand gesehen und mich da
 Als die Wucht des Zaubers nachließ, war der Widerstand gebrochen.
 
 Mehr wusste ich danach nicht. Wir hatten einen Weg durch das Heiligtum gefunden, ein Rätsel gelöst und einen Kampf überstanden, ohne eine unserer wichtigsten Fragen zu beantworten. Die Statuen hatten uns gezeigt, wie man eine falsche Auskunft erkennt, wenn ihre Struktur bekannt ist. Bei den übrigen Spuren blieb mir nur die Unsicherheit, ob wir gerade etwas freilegten oder einer Adresse folgten, die jemand anderes für uns hinterlassen hatte. Wenn die Runen tatsächlich eine Adresse gewesen waren, wusste ich nicht, ob wir sie gefunden hatten – oder ob sie uns gefunden hatte.
+
+
+
+
+
